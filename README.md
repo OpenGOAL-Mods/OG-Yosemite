@@ -7,3 +7,5 @@
   - Go into `iso_data/jak1/DGO`, paste your copy of `YOS.DGO` here
 - Install mod
 - Have fun
+
+Speedrunners - you can find an updated autosplitter for splitting on all 69 orbs [here](https://github.com/OpenGOAL-Mods/OG-Yosemite/blob/main/opengoal-jak1-autosplitter.asl) (add to your layout as Scriptable Auto Spitter)
